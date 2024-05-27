@@ -23,7 +23,6 @@ function getPhonePrefix(countryCode) {
       return "48_11_11";
     case "IN": // Индия
       return "91_12_12";
-       
     case "CL": // Чили
       return "56_10_11";
     case "IT": // Италия
