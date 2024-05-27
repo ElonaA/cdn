@@ -18,6 +18,8 @@ function getPhonePrefix(countryCode) {
     case "RO": // Румыния
       return "40_8_11";
     case "PE": // Перу
+
+    
       return "51_10_11";
     case "GT": // Гватемала
       return "502_11_11";
