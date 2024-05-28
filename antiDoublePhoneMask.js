@@ -11,6 +11,8 @@ function getPhonePrefix(countryCode) {
       return "359_12_12";
     case "HR": // Хорватия
       return "385_8_13";
+       case "DO": // Доминикана
+      return "1_8_11";
     case "PY": // Парагвай
       return "595_8_13";
     case "CO": // Колумбия
