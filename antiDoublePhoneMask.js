@@ -165,6 +165,8 @@ function getPhonePrefix(countryCode) {
       return "237";
     case "MR": // Мавритания
       return "222";
+    case "RW": // Руанда
+      return "250";
     default:
       return "_6_20";
   }
