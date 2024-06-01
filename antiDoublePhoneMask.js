@@ -5,7 +5,9 @@ const countryNodeSelector = 'input[name="country_code"]';
 //! Если нет информации по длине телефона пишем просто "ТелефонныйКод", по умолчанию будет мин 6 макс 20.
 function getPhonePrefix(countryCode) {
   switch (countryCode) {
-    case "DZ": // Алжир
+    case "DZ": // Сальвадор
+      return "+503_8_12"; 
+     case "SV": // Алжир
       return "+213_10_12"; 
     case "MX": // Мексика
       return "52_12_12";
