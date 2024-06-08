@@ -6,7 +6,7 @@ const countryNodeSelector = 'input[name="country_code"]';
 function getPhonePrefix(countryCode) {
   switch (countryCode) {
     case "MA": // Марокко
-      return "212"; 
+      return "212_12_14"; 
     case "TJ": // Таджикистан
       return "992"; 
     case "SV": // Сальвадор
