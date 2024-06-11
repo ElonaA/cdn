@@ -14,7 +14,7 @@ function getPhonePrefix(countryCode) {
     case "SV": // Сальвадор
       return "503_8_12"; 
     case "VE": // Венесу
-      return "58_8_12"; 
+      return "58_8_13"; 
     case "DZ": // Алжир
       return "+213_10_12"; 
     case "MX": // Мексика
