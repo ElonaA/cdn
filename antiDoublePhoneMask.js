@@ -20,7 +20,7 @@ function getPhonePrefix(countryCode) {
     case "MX": // Мексика
       return "52_12_12";
     case "BG": // Болгария
-      return "359_12_14";
+      return "359_12_12";
     case "HR": // Хорватия
       return "385_8_13";
     case "DO": // Доминикана
