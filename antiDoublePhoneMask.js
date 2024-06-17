@@ -6,17 +6,15 @@ const countryNodeSelector = 'input[name="country_code"]';
 function getPhonePrefix(countryCode) {
   switch (countryCode) {
     case "MA": // Марокко
-      return "212_12_14"; 
+      return "212_12_14";
     case "PA": // Панама
       return "507_9_12";
-    case "TJ": // Таджикистан
-      return "992"; 
     case "SV": // Сальвадор
-      return "503_8_12"; 
-    case "VE": // Венесу
-      return "58_8_13"; 
+      return "503_8_12";
+    case "VE": // Венесуэлла
+      return "58_8_13";
     case "DZ": // Алжир
-      return "+213_10_12"; 
+      return "+213_10_12";
     case "MX": // Мексика
       return "52_12_12";
     case "BG": // Болгария
@@ -177,6 +175,10 @@ function getPhonePrefix(countryCode) {
       return "222";
     case "RW": // Руанда
       return "250";
+    case "TJ": // Таджикистан
+      return "992";
+    case "UY": // Уругвай
+      return "598";
     default:
       return "_6_20";
   }
