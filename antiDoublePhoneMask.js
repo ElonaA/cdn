@@ -83,6 +83,8 @@ function getPhonePrefix(countryCode) {
       return "968_11_11";
     case "CI": // Кот-дИвуар
       return "225_11_13";
+    case "KE": // Кения
+      return "254_9_15";
     case "ZW": // Зимбабве
       return "263";
     case "AM": // Армения
@@ -107,8 +109,6 @@ function getPhonePrefix(countryCode) {
       return "27";
     case "AR": // Аргентина
       return "54";
-    case "KE": // Кения
-      return "254";
     case "SN": // Сенегал
       return "221";
     case "BD": // Бангладеш
