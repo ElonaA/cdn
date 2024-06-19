@@ -179,6 +179,8 @@ function getPhonePrefix(countryCode) {
       return "992";
     case "UY": // Уругвай
       return "598";
+    case "TU": // Тунис
+      return "216";
     default:
       return "_6_20";
   }
