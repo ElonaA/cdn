@@ -8,7 +8,7 @@ function getPhonePrefix(countryCode) {
     case "MA": // Марокко
       return "212_12_14";
     case "PA": // Панама
-      return "507_9_12";
+      return "507_9_13";
     case "SV": // Сальвадор
       return "503_8_12";
     case "VE": // Венесуэлла
