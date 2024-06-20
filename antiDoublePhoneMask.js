@@ -183,6 +183,8 @@ function getPhonePrefix(countryCode) {
       return "216";
     case "SG": // Сингапур
       return "65";
+    case "TH": // Таиланд
+      return "66";
     default:
       return "_6_20";
   }
