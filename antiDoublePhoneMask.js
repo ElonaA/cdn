@@ -181,6 +181,8 @@ function getPhonePrefix(countryCode) {
       return "598";
     case "TN": // Тунис
       return "216";
+    case "SG": // Сингапур
+      return "65";
     default:
       return "_6_20";
   }
