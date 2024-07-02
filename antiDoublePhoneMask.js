@@ -187,6 +187,8 @@ function getPhonePrefix(countryCode) {
       return "66";
     case "AE": // ОАЭ
       return "971";
+    case "QA": // ОАЭ
+      return "97";
     default:
       return "_6_20";
   }
