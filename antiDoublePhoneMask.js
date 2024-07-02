@@ -42,7 +42,7 @@ function getPhonePrefix(countryCode) {
     case "IT": // Италия
       return "39_8_16";
     case "EC": // Эквадор
-      return "593_12_12";
+      return "593_11_13";
     case "CZ": // Чешская Республика
       return "420_12_12";
     case "HU": // Венгрия
@@ -187,8 +187,8 @@ function getPhonePrefix(countryCode) {
       return "66";
     case "AE": // ОАЭ
       return "971";
-    case "QA": // ОАЭ
-      return "97";
+    case "QA": // Катар
+      return "974";
     default:
       return "_6_20";
   }
