@@ -185,6 +185,8 @@ function getPhonePrefix(countryCode) {
       return "65";
     case "TH": // Таиланд
       return "66";
+    case "AE": // ОАЭ
+      return "971";
     default:
       return "_6_20";
   }
