@@ -189,6 +189,8 @@ function getPhonePrefix(countryCode) {
       return "971";
     case "QA": // Катар
       return "974";
+    case "DK": // Дания
+      return "45";
     default:
       return "_6_20";
   }
