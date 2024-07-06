@@ -191,6 +191,8 @@ function getPhonePrefix(countryCode) {
       return "974";
     case "DK": // Дания
       return "45";
+    case "FI": // Дания
+      return "45";
     default:
       return "_6_20";
   }
