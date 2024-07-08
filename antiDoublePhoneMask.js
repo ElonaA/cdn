@@ -89,6 +89,8 @@ function getPhonePrefix(countryCode) {
       return "355_12_12";
     case "XK": // Косово
       return "383_11_11";
+    case "ES": // Испания
+      return "34_11_11";
     case "ZW": // Зимбабве
       return "263";
     case "AM": // Армения
@@ -153,8 +155,6 @@ function getPhonePrefix(countryCode) {
       return "389";
     case "GE": // Грузия
       return "995";
-    case "ES": // Испания
-      return "34";
     case "KG": // Кыргызстан
       return "996";
     case "TR": // Турция
@@ -191,8 +191,8 @@ function getPhonePrefix(countryCode) {
       return "974";
     case "DK": // Дания
       return "45";
-    case "FI": // Дания
-      return "45";
+    case "FI": // Финляндия
+      return "358";
     default:
       return "_6_20";
   }
