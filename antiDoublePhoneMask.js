@@ -112,7 +112,7 @@ function getPhonePrefix(countryCode) {
     case "LU": // Люксембург
       return "352";
     case "ZA": // ЮАР
-      return "27";
+      return "27_4_11";
     case "AR": // Аргентина
       return "54";
     case "SN": // Сенегал
