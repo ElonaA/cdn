@@ -27,8 +27,6 @@ function getPhonePrefix(countryCode) {
       return "595_8_13";
     case "CO": // Колумбия
       return "57_12_12";
-    case "RO": // Румыния
-      return "40_8_11";
     case "PE": // Перу
       return "51_10_11";
     case "GT": // Гватемала
@@ -91,6 +89,10 @@ function getPhonePrefix(countryCode) {
       return "383_11_11";
     case "ES": // Испания
       return "34_11_11";
+    case "ZA": // ЮАР
+      return "27_4_11";
+    case "RO": // Румыния
+      return "40_8_13";
     case "ZW": // Зимбабве
       return "263";
     case "AM": // Армения
@@ -111,8 +113,6 @@ function getPhonePrefix(countryCode) {
       return "244";
     case "LU": // Люксембург
       return "352";
-    case "ZA": // ЮАР
-      return "27_4_11";
     case "AR": // Аргентина
       return "54";
     case "SN": // Сенегал
