@@ -195,6 +195,8 @@ function getPhonePrefix(countryCode) {
       return "45";
     case "FI": // Финляндия
       return "358";
+    case "ML": // Мали
+      return "223";
     default:
       return "_6_20";
   }
