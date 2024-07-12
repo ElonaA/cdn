@@ -91,6 +91,8 @@ function getPhonePrefix(countryCode) {
       return "34_11_11";
     case "ZA": // ЮАР
       return "27_4_11";
+    case "BE": // Бельгия
+      return "32_11_11";
     case "RO": // Румыния
       return "40_8_12";
     case "ZW": // Зимбабве
@@ -101,8 +103,6 @@ function getPhonePrefix(countryCode) {
       return "241";
     case "NG": // Нигерия
       return "234";
-    case "BE": // Бельгия
-      return "32";
     case "NI": // Никарагуа
       return "505";
     case "LV": // Латвия
