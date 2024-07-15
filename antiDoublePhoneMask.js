@@ -96,7 +96,7 @@ function getPhonePrefix(countryCode) {
     case "RO": // Румыния
       return "40_8_12";
     case "BR": // Бразилия
-      return "55_12_12";
+      return "55_13_13";
     case "ZW": // Зимбабве
       return "263";
     case "AM": // Армения
