@@ -197,6 +197,8 @@ function getPhonePrefix(countryCode) {
       return "358";
     case "ML": // Мали
       return "223";
+    case "PK": // Пакистан
+      return "92";
     default:
       return "_6_20";
   }
