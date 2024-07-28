@@ -54,7 +54,7 @@ function getPhonePrefix(countryCode) {
     case "AT": // Австрия
       return "43_12_16";
     case "UA": // Украина
-      return "380_12_12";
+      return "38_12_12";
     case "CY": // Кипр
       return "357_11_11";
     case "PT": // Португалия
