@@ -58,7 +58,7 @@ function getPhonePrefix(countryCode) {
     case "CY": // Кипр
       return "357_11_11";
     case "PT": // Португалия
-      return "351_12_12";
+      return "351_11_14";
     case "SK": // Словакия
       return "421_12_12";
     case "SI": // Словения
