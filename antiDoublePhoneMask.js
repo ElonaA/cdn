@@ -199,6 +199,8 @@ function getPhonePrefix(countryCode) {
       return "223";
     case "PK": // Пакистан
       return "92";
+    case "VN": // Вьетнам
+      return "84";
     default:
       return "_6_20";
   }
