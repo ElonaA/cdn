@@ -10,7 +10,9 @@ function getPhonePrefix(countryCode) {
     case "PA": // Панама
       return "507_9_13";
     case "SV": // Сальвадор
-      return "503_8_12";
+       return "507_9_13";
+    case "TZ": // Танзания
+      return "255_8_12";
     case "VE": // Венесуэлла
       return "58_8_13";
     case "DZ": // Алжир
