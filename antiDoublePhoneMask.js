@@ -10,7 +10,7 @@ function getPhonePrefix(countryCode) {
     case "PA": // Панама
       return "507_9_13";
     case "SV": // Сальвадор
-       return "507_9_13";
+      return "503_8_12";
     case "TZ": // Танзания
       return "255_8_12";
     case "VE": // Венесуэлла
@@ -203,6 +203,8 @@ function getPhonePrefix(countryCode) {
       return "92";
     case "VN": // Вьетнам
       return "84";
+    case "PR": // Пуэрто рико
+      return "1";
     default:
       return "_6_20";
   }
@@ -554,6 +556,7 @@ function checkPhoneNumber(event) {
       case "AR":
       case "KE":
       case "VE":
+      case "PR":
       case "CR":
         errorTitle = "Error";
         errorMessage = "Lo siento, ya has enviado una solicitud."; // Испанский перевод
