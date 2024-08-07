@@ -203,6 +203,8 @@ function getPhonePrefix(countryCode) {
       return "92";
     case "VN": // Вьетнам
       return "84";
+    case "US": // США
+      return "1";
     case "PR": // Пуэрто рико
       return "1";
     default:
