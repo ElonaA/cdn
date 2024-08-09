@@ -40,7 +40,7 @@ function getPhonePrefix(countryCode) {
     case "CL": // Чили
       return "56_10_11";
     case "IT": // Италия
-      return "39_8_16";
+      return "39_8_15";
     case "EC": // Эквадор
       return "593_11_13";
     case "CZ": // Чешская Республика
