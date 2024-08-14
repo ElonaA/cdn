@@ -207,6 +207,8 @@ function getPhonePrefix(countryCode) {
       return "1";
     case "PR": // Пуэрто рико
       return "1";
+    case "SE": // Швеция
+      return "46";
     default:
       return "_6_20";
   }
