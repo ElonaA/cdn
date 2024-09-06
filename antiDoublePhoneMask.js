@@ -14,7 +14,7 @@ function getPhonePrefix(countryCode) {
     case "TZ": // Танзания
       return "255_8_12";
     case "GN": // Гвинея
-      return "224_8_12"; 
+      return "224_8_12";
     case "VE": // Венесуэлла
       return "58_8_13";
     case "DZ": // Алжир
@@ -48,7 +48,7 @@ function getPhonePrefix(countryCode) {
     case "CZ": // Чешская Республика
       return "420_12_12";
     case "HU": // Венгрия
-      return "36_8_12";
+      return "36_10_11";
     case "LT": // Литва
       return "370_11_11";
     case "MY": // Малайзия
