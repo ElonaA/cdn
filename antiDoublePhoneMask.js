@@ -212,7 +212,7 @@ function getPhonePrefix(countryCode) {
     case "SE": // Швеция
       return "46";
     case "UG": // Уганда
-      return "46";
+      return "256";
     default:
       return "_6_20";
   }
