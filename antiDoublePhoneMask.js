@@ -211,6 +211,8 @@ function getPhonePrefix(countryCode) {
       return "1";
     case "SE": // Швеция
       return "46";
+    case "UG": // Уганда
+      return "46";
     default:
       return "_6_20";
   }
