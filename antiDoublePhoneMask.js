@@ -16,7 +16,7 @@ function getPhonePrefix(countryCode) {
     case "GN": // Гвинея
       return "224_8_12";
     case "VE": // Венесуэлла
-      return "58_8_13";
+      return "58_11_13";
     case "DZ": // Алжир
       return "213_10_12";
     case "MX": // Мексика
