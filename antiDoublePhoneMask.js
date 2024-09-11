@@ -13,6 +13,8 @@ function getPhonePrefix(countryCode) {
       return "503_8_12";
     case "TZ": // Танзания
       return "255_8_12";
+    case "BJ": // Бенин
+      return "229_8_13";
     case "GN": // Гвинея
       return "224_8_12";
     case "VE": // Венесуэлла
