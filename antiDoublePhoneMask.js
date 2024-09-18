@@ -98,7 +98,7 @@ function getPhonePrefix(countryCode) {
     case "ZA": // ЮАР
       return "27_4_11";
     case "BE": // Бельгия
-      return "32_11_11";
+      return "32_10_11";
     case "RO": // Румыния
       return "40_8_12";
     case "BR": // Бразилия
