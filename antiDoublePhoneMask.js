@@ -15,6 +15,8 @@ function getPhonePrefix(countryCode) {
       return "255_8_12";
     case "BJ": // Бенин
       return "229_8_13";
+     case "ZM": // Замбия
+      return "260_9_9";
     case "GN": // Гвинея
       return "224_8_12";
     case "VE": // Венесуэлла
