@@ -7,6 +7,8 @@ function getPhonePrefix(countryCode) {
   switch (countryCode) {
     case "MA": // Марокко
       return "212_12_14";
+    case "LY": // Ливия
+      return "218_10_13";
     case "PA": // Панама
       return "507_9_13";
     case "SV": // Сальвадор
@@ -15,7 +17,7 @@ function getPhonePrefix(countryCode) {
       return "255_8_12";
     case "BJ": // Бенин
       return "229_8_13";
-     case "ZM": // Замбия
+    case "ZM": // Замбия
       return "260_9_9";
     case "GN": // Гвинея
       return "224_8_12";
