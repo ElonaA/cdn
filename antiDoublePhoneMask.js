@@ -70,7 +70,7 @@ function getPhonePrefix(countryCode) {
     case "PT": // Португалия
       return "351_11_14";
     case "SK": // Словакия
-      return "421_12_12";
+      return "421_12_13";
     case "SI": // Словения
       return "386_11_11";
     case "EE": // Эстония
