@@ -219,6 +219,8 @@ function getPhonePrefix(countryCode) {
       return "46";
     case "UG": // Уганда
       return "256";
+    case "NA": // Намибия
+      return "264";
     default:
       return "_6_20";
   }
