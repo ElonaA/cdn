@@ -107,6 +107,8 @@ function getPhonePrefix(countryCode) {
       return "40_8_12";
     case "BR": // Бразилия
       return "55_12_13";
+    case "BO": // Боливия
+      return "591_11_11";
     case "ZW": // Зимбабве
       return "263";
     case "AM": // Армения
@@ -139,8 +141,6 @@ function getPhonePrefix(countryCode) {
       return "977";
     case "AZ": // Азербайджан
       return "994";
-    case "BO": // Боливия
-      return "591";
     case "HN": // Гондурас
       return "504";
     case "ME": // Черногория
