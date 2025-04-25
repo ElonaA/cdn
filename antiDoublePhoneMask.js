@@ -221,7 +221,7 @@ function getPhonePrefix(countryCode) {
       return "256";
     case "NA": // Намибия
       return "264";
-    case "LB": // Намибия
+    case "LB": // Ливан
       return "961";
     default:
       return "_6_20";
