@@ -38,7 +38,7 @@ function getPhonePrefix(countryCode) {
     case "CO": // Колумбия
       return "57_12_12";
     case "PE": // Перу
-      return "51_10_11";
+      return "51_11_11";
     case "GT": // Гватемала
       return "502_11_11";
     case "PL": // Польша
